@@ -1,0 +1,14 @@
+$pink: #ff69b4;
+$white: #ffffff;
+$dark: #0c015e;
+$teal: #32cdcd;
+$gradient: linear-gradient(203deg, rgba(127, 0, 255, 1) 0%, rgba(0, 128, 128, 1) 100%);
+$gradient2: linear-gradient(250deg, rgba(255, 105, 180, 1) 24%, rgba(64, 224, 208, 1) 100%);
+
+.pink {
+    color: $pink;
+}
+
+.teal {
+    color: $teal;
+}
